@@ -49,7 +49,7 @@ It applies Logistic Regression and Random Forest algorithms for binary classific
 ## How to Run
 ```bash
 # 1. Clone this repository
-git clone https://github.com/<your-username>/Customer-Churn-Prediction.git
+git clone https://github.com/PayalDahe/Customer-Churn-Prediction.git
 
 # 2. Navigate to the project folder
 cd Customer-Churn-Prediction
@@ -59,3 +59,4 @@ pip install -r requirements.txt
 
 # 4. Run the Jupyter Notebook
 jupyter notebook notebooks/churn_prediction.ipynb
+
